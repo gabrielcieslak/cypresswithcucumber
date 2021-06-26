@@ -1,0 +1,24 @@
+{
+  "name": "cypresswithcucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run":"cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcieslak/cypresswithcucumber.git#readme"
+  },
+  "author": "Gabriel Cieslak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielcieslak/cypresswithcucumber/issues"
+  },
+  "homepage": "https://github.com/gabrielcieslak/cypresswithcucumber/tree/readme#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "cypress-cucumber-preprocessor": "^4.1.2"
+  }
+}
