@@ -3,7 +3,7 @@
 
 Simple automation with cypress using POM and Cucumber.
 Automate account creation and login on site http://automationpractice.com.
-Integration tests in UI.
+whitout any validations, just a cucumber using example
 
 
 
